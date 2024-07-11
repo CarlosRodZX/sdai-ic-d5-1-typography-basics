@@ -25,6 +25,13 @@ p {
     text-align: center;
 }
 
+/* Main Title Utility */
+.main-title {
+    font-family: 'Trebuchet';
+    font-size: 4rem;
+    margin: 15px 10px;
+}
+
 /* Navigation Styles */
 .nav {
     list-style-type: none;
